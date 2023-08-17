@@ -134,6 +134,11 @@ a {
 
 /* benefits */
 
+.benefits-title {
+    text-align: center;
+    text-transform: capitalize;
+}
+
 /* team */
 
 .team {
@@ -145,6 +150,11 @@ a {
 }
 
 .team-subtitle {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.team-title {
     text-align: center;
     text-transform: capitalize;
 }
